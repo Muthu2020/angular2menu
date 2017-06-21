@@ -1,0 +1,8 @@
+<ul class="sidenav">
+  <li *ngFor='let menu of menuList'>
+      <a href="#home">{{menu.label}}</a>
+      <div class="dropdown-content" *ngIf='menu.submenu && menu.submenu.length > 0'>
+      <a href="#" *ngFor='let secondarymenu of menu.submenu'>{{secondarymenu.label}}</a>
+    </div>
+  </li>
+</ul>
