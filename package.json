@@ -1,0 +1,23 @@
+{
+  "name": "angular2menu",
+  "version": "1.0.0",
+  "description": "Angular 2 Menu component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muthu2020/angular2menu.git"
+  },
+  "keywords": [
+    "angular2",
+    "menu"
+  ],
+  "author": "muthu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muthu2020/angular2menu/issues"
+  },
+  "homepage": "https://github.com/Muthu2020/angular2menu#readme"
+}
